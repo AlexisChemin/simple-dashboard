@@ -4,6 +4,7 @@ import Loggly from "./Loggly";
 import Message from "./Message";
 import RssAws from "./RssAws";
 import StatusCode from "./StatusCode";
+import HealthCheck from "./HealthCheck";
 import StatusIo from "./StatusIo";
 import DockerCloudService from "./DockerCloudService";
 import VstsBranches from "./VstsBranches";
@@ -18,6 +19,7 @@ export default [
     Message,
     RssAws,
     StatusCode,
+    HealthCheck,
     StatusIo,
     VstsBranches,
     VstsBuild

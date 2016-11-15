@@ -1,0 +1,165 @@
+{
+    "panels": [{
+        "title": "Build",
+        "sources": [{
+            "type": "health-check",
+            "title": "HES",
+            "url": "http://7gN66Kf8:9WvPum9P@84.39.33.166/apps/hes/management/health"
+        },{
+            "type": "health-check",
+            "title": "REF",
+            "url": "http://7gN66Kf8:9WvPum9P@84.39.33.166/apps/ref/management/health"
+        },{
+            "type": "health-check",
+            "title": "OSS",
+            "url": "http://7gN66Kf8:9WvPum9P@84.39.33.166/apps/oss/management/health"
+        },{
+            "type": "health-check",
+            "title": "MDM",
+            "url": "http://7gN66Kf8:9WvPum9P@84.39.33.166/apps/mdm/management/health"
+        },{
+            "type": "health-check",
+            "title": "ROBE",
+            "url": "http://7gN66Kf8:9WvPum9P@84.39.33.166/apps/robe/management/health"
+        },{
+            "type": "health-check",
+            "title": "PMC",
+            "url": "http://7gN66Kf8:9WvPum9P@84.39.33.166/apps/pmc/management/health"
+        }]
+    }, {
+        "title": "CI",
+        "sources": [{
+            "type": "health-check",
+            "title": "HES",
+            "url": "http://7gN66Kf8:9WvPum9P@84.39.49.131/apps/hes/management/health"
+        },{
+            "type": "health-check",
+            "title": "REF",
+            "url": "http://7gN66Kf8:9WvPum9P@84.39.49.131/apps/ref/management/health"
+        },{
+            "type": "health-check",
+            "title": "OSS",
+            "url": "http://7gN66Kf8:9WvPum9P@84.39.49.131/apps/oss/management/health"
+        },{
+            "type": "health-check",
+            "title": "MDM",
+            "url": "http://7gN66Kf8:9WvPum9P@84.39.49.131/apps/mdm/management/health"
+        },{
+            "type": "health-check",
+            "title": "ROBE",
+            "url": "http://7gN66Kf8:9WvPum9P@84.39.49.131/apps/robe/management/health"
+        },{
+            "type": "health-check",
+            "title": "PMC",
+            "url": "http://7gN66Kf8:9WvPum9P@84.39.49.131/apps/pmc/management/health"
+        }]
+    }, {
+        "title": "ACCEPTANCE",
+        "sources": [{
+            "type": "health-check",
+            "title": "HES",
+            "url": "http://7gN66Kf8:9WvPum9P@84.39.40.237/apps/hes/management/health"
+        },{
+            "type": "health-check",
+            "title": "REF",
+            "url": "http://7gN66Kf8:9WvPum9P@84.39.40.237/apps/ref/management/health"
+        },{
+            "type": "health-check",
+            "title": "OSS",
+            "url": "http://7gN66Kf8:9WvPum9P@84.39.40.237/apps/oss/management/health"
+        },{
+            "type": "health-check",
+            "title": "MDM",
+            "url": "http://7gN66Kf8:9WvPum9P@84.39.40.237/apps/mdm/management/health"
+        },{
+            "type": "health-check",
+            "title": "ROBE",
+            "url": "http://7gN66Kf8:9WvPum9P@84.39.40.237/apps/robe/management/health"
+        },{
+            "type": "health-check",
+            "title": "PMC",
+            "url": "http://7gN66Kf8:9WvPum9P@84.39.40.237/apps/pmc/management/health"
+        }]
+    }, {
+        "title": "DEMO",
+        "sources": [{
+            "type": "health-check",
+            "title": "HES",
+            "url": "http://7gN66Kf8:9WvPum9P@84.39.41.146/apps/hes/management/health"
+        },{
+            "type": "health-check",
+            "title": "REF",
+            "url": "http://7gN66Kf8:9WvPum9P@84.39.41.146/apps/ref/management/health"
+        },{
+            "type": "health-check",
+            "title": "OSS",
+            "url": "http://7gN66Kf8:9WvPum9P@84.39.41.146/apps/oss/management/health"
+        },{
+            "type": "health-check",
+            "title": "MDM",
+            "url": "http://7gN66Kf8:9WvPum9P@84.39.41.146/apps/mdm/management/health"
+        },{
+            "type": "health-check",
+            "title": "ROBE",
+            "url": "http://7gN66Kf8:9WvPum9P@84.39.41.146/apps/robe/management/health"
+        },{
+            "type": "health-check",
+            "title": "PMC",
+            "url": "http://7gN66Kf8:9WvPum9P@84.39.41.146/apps/pmc/management/health"
+        }]
+    }, {
+        "title": "INTEGRATION",
+        "sources": [{
+            "type": "health-check",
+            "title": "HES",
+            "url": "http://7gN66Kf8:9WvPum9P@84.39.46.65/apps/hes/management/health"
+        },{
+            "type": "health-check",
+            "title": "REF",
+            "url": "http://7gN66Kf8:9WvPum9P@84.39.46.65/apps/ref/management/health"
+        },{
+            "type": "health-check",
+            "title": "OSS",
+            "url": "http://7gN66Kf8:9WvPum9P@84.39.46.65/apps/oss/management/health"
+        },{
+            "type": "health-check",
+            "title": "MDM",
+            "url": "http://7gN66Kf8:9WvPum9P@84.39.46.65/apps/mdm/management/health"
+        },{
+            "type": "health-check",
+            "title": "ROBE",
+            "url": "http://7gN66Kf8:9WvPum9P@84.39.46.65/apps/robe/management/health"
+        },{
+            "type": "health-check",
+            "title": "PMC",
+            "url": "http://7gN66Kf8:9WvPum9P@84.39.46.65/apps/pmc/management/health"
+        }]
+    }, {
+        "title": "TOPWATT",
+        "sources": [{
+            "type": "health-check",
+            "title": "HES",
+            "url": "http://7gN66Kf8:9WvPum9P@10.194.7.204/apps/hes/management/health"
+        },{
+            "type": "health-check",
+            "title": "REF",
+            "url": "http://7gN66Kf8:9WvPum9P@10.194.7.204/apps/ref/management/health"
+        },{
+            "type": "health-check",
+            "title": "OSS",
+            "url": "http://7gN66Kf8:9WvPum9P@10.194.7.204/apps/oss/management/health"
+        },{
+            "type": "health-check",
+            "title": "MDM",
+            "url": "http://7gN66Kf8:9WvPum9P@10.194.7.204/apps/mdm/management/health"
+        },{
+            "type": "health-check",
+            "title": "ROBE",
+            "url": "http://7gN66Kf8:9WvPum9P@10.194.7.204/apps/robe/management/health"
+        },{
+            "type": "health-check",
+            "title": "PMC",
+            "url": "http://7gN66Kf8:9WvPum9P@10.194.7.204/apps/pmc/management/health"
+        }]
+    }]
+}
