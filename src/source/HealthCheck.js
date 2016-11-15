@@ -16,8 +16,8 @@ export default class HealthCheck extends Source {
     fetchData() {
         return request.get(this.url)
             .withCredentials()
-            .promise()
-            .catch(e => e); // The healthcheck returns an error status code if anything is unhealthy.
+            .auth('7gN66Kf8','9WvPum9P', {type:'auto'})
+            .promise(); // The healthcheck returns an error status code if anything is unhealthy.
     }
 
     getStatus() {
