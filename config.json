@@ -1,6 +1,6 @@
 {
     "panels": [{
-        "title": "Build",
+        "title": "BUILD",
         "sources": [{
             "type": "health-check",
             "title": "HES",
@@ -139,7 +139,7 @@
         "sources": [{
             "type": "health-check",
             "title": "HES",
-            "url": "http://7gN66Kf8:9WvPum9P@10.194.7.204/apps/hes/management/health"
+            "url": "http://7gN66Kf8:9WvPum9P@10.194.7.204/apps/hes/management/health"             
         },{
             "type": "health-check",
             "title": "REF",
